@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**pranav165patle/pranav165patle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Pranav Patle
 
-Here are some ideas to get you started:
+### 💻 Software Developer | ☕ Java | ⚙️ Spring Boot | ⚛️ React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/pranav165patle">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pranav-patle-p1p6s5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pranavpatle2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=pranav165patle&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🚀 Who Am I?
+
+```java
+public class Pranav {
+
+    String role = "Software Developer";
+
+    String[] focus = {
+        "Backend Development",
+        "Full-Stack Development",
+        "Problem Solving"
+    };
+
+    String[] technologies = {
+        "Java",
+        "Spring Boot",
+        "React",
+        "MySQL",
+        "REST APIs"
+    };
+
+    String mindset = "Build • Learn • Improve";
+}
