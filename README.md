@@ -145,3 +145,4 @@ real-world development workflows.
 │       LEARN   ←   IMPROVE   ←   TEST    │
 │                                          │
 └──────────────────────────────────────────┘
+GitHub PR integration test.
